@@ -4,6 +4,8 @@ Este repositorio contiene el skill `commit-message-writer` solicitado en el
 laboratorio. Genera mensajes en formato Conventional Commits a partir del diff
 staged y es compatible con asistentes que implementan el estándar Agent Skills.
 
+Repositorio publicado: <https://github.com/AaronCoorahua/lab3-1-agent-skills>
+
 ## Estructura
 
 ```text
