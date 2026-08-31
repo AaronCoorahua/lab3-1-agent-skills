@@ -31,3 +31,5 @@ python task.py
 
 Consulta [EVIDENCIAS.md](EVIDENCIAS.md) para saber qué captura corresponde a
 cada entregable del laboratorio.
+
+# Update Cursor SS
