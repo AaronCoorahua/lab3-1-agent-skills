@@ -20,3 +20,5 @@ if __name__ == "__main__":
     print(f"2 + 3 = {sumar(2, 3)}")
     print(f"5 - 1 = {restar(5, 1)}")
     print(f"4 * 3 = {multiplicar(4, 3)}")
+    print("Hola mundo")
+    print("Hola mundo 2")
