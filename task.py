@@ -22,3 +22,4 @@ if __name__ == "__main__":
     print(f"4 * 3 = {multiplicar(4, 3)}")
     print("Hola mundo")
     print("Hola mundo 2")
+    print("Hola mundo 3")
